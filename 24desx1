@@ -1,0 +1,745 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_abcaustralia.png" group-title="IndiHomeTV" tvg-name="ABC-AUSTRALIA", ABC AUSTRALIA
+rtp://@239.1.1.33:8172
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_afn.png" group-title="IndiHomeTV" tvg-name="AFN", AFN
+rtp://@239.1.2.12:8046
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_afn_hd.png" group-title="IndiHomeTV" tvg-name="AFN-HD", AFN HD
+rtp://@239.1.2.13:8052
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_aljazeera.png" group-title="IndiHomeTV" tvg-name="AL-JAZEERA", AL JAZEERA
+rtp://@239.1.1.195:9144
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_aljazeera_hd.png" group-title="IndiHomeTV" tvg-name="AL-JAZEERA-HD", AL JAZEERA HD
+rtp://@239.1.2.8:8022
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_alquranalkareem.png" group-title="IndiHomeTV" tvg-name="AL-QURAN-AL-KAREEM", AL QURAN AL KAREEM
+rtp://@239.1.1.185:9084
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_animax.png" group-title="IndiHomeTV" tvg-name="ANIMAX", ANIMAX
+rtp://@239.1.1.64:8358
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_aniplus.png" group-title="IndiHomeTV" tvg-name="ANIPLUS", ANIPLUS
+rtp://@239.1.1.117:8676
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_antara.png" group-title="IndiHomeTV" tvg-name="ANTARA", ANTARA
+rtp://@239.1.1.128:9218
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_antara_hd.png" group-title="IndiHomeTV" tvg-name="ANTARA-HD", ANTARA HD
+rtp://@239.1.1.104:9511
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_antv.png" group-title="IndiHomeTV" tvg-name="ANTV", ANTV
+rtp://@239.1.1.15:8064
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_arirang.png" group-title="IndiHomeTV" tvg-name="ARIRANG", ARIRANG
+rtp://@239.1.1.147:8856
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_atv.png" group-title="IndiHomeTV" tvg-name="ATV", ATV
+rtp://@239.1.2.88:8380
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_axn.png" group-title="IndiHomeTV" tvg-name="AXN", AXN
+rtp://@239.1.1.137:8796
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_axn_hd.png" group-title="IndiHomeTV" tvg-name="AXN-HD", AXN HD
+rtp://@239.1.1.245:9436
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_babyfirst.png" group-title="IndiHomeTV" tvg-name="BABY-FIRST", BABY FIRST
+rtp://@239.1.1.157:8916
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_balitv.png" group-title="IndiHomeTV" tvg-name="BALITV", BALITV
+rtp://@239.1.1.72:8406
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beinsports1.png" group-title="IndiHomeTV" tvg-name="BEIN-SPORTS-1", BEIN SPORTS 1
+rtp://@239.1.1.217:9204
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beinsports1_hd.png" group-title="IndiHomeTV" tvg-name="BEIN-SPORTS-1-HD", BEIN SPORTS 1 HD
+rtp://@239.1.1.248:9494
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beinsports3.png" group-title="IndiHomeTV" tvg-name="BEIN-SPORTS-3", BEIN SPORTS 3
+rtp://@239.1.1.221:9300
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beinsports3_hd.png" group-title="IndiHomeTV" tvg-name="BEIN-SPORTS-3-HD", BEIN SPORTS 3 HD
+rtp://@239.1.1.249:9496
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beritasatu.png" group-title="IndiHomeTV" tvg-name="BERITA-SATU", BERITA SATU
+rtp://@239.1.1.183:9072
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beritasatu_hd.png" group-title="IndiHomeTV" tvg-name="BERITA-SATU-HD", BERITA SATU HD
+rtp://@239.1.1.114:9512
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_bioskopindonesia.png" group-title="IndiHomeTV" tvg-name="BIOSKOP-INDONESIA", BIOSKOP INDONESIA
+rtp://@239.1.1.226:9332
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_bloomberg.png" group-title="IndiHomeTV" tvg-name="BLOOMBERG", BLOOMBERG
+rtp://@239.1.1.199:9168
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_boomerang.png" group-title="IndiHomeTV" tvg-name="BOOMERANG", BOOMERANG
+rtp://@239.1.1.73:8412
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cartoonnetwork.png" group-title="IndiHomeTV" tvg-name="CARTOON-NETWORK", CARTOON NETWORK
+rtp://@239.1.1.123:8712
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cctv4.png" group-title="IndiHomeTV" tvg-name="CCTV4", CCTV4
+rtp://@239.1.1.115:8664
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_celestialmovies.png" group-title="IndiHomeTV" tvg-name="CELESTIAL-MOVIES", CELESTIAL MOVIES
+rtp://@239.1.1.97:8556
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cgtndocumentary.png" group-title="IndiHomeTV" tvg-name="CGTN-DOCUMENTARY", CGTN DOCUMENTARY
+rtp://@239.1.1.121:8700
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cgtndocumentary_hd.png" group-title="IndiHomeTV" tvg-name="CGTN-DOCUMENTARY-HD", CGTN DOCUMENTARY HD
+rtp://@239.1.2.4:7998
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_chinesedrama_hd.png" group-title="IndiHomeTV" tvg-name="CHINESE-DRAMA-HD", CHINESE DRAMA HD
+rtp://@239.1.2.10:8306
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cinemaworld.png" group-title="IndiHomeTV" tvg-name="CINEMA-WORLD", CINEMA WORLD
+rtp://@239.1.1.189:9108
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cinemaworld_hd.png" group-title="IndiHomeTV" tvg-name="CINEMA-WORLD-HD", CINEMA WORLD HD
+rtp://@239.1.2.80:8578
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cinemax.png" group-title="IndiHomeTV" tvg-name="CINEMAX", CINEMAX
+rtp://@239.1.1.87:8496
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cinemax_hd.png" group-title="IndiHomeTV" tvg-name="CINEMAX-HD", CINEMAX HD
+rtp://@239.1.2.206:9186
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cinemax_hd.png" group-title="IndiHomeTV" tvg-name="CINEMAX-HD", CINEMAX HD
+rtp://@239.1.2.247:9372
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_citradangdut.png" group-title="IndiHomeTV" tvg-name="CITRA-DANGDUT", CITRA DANGDUT
+rtp://@239.1.1.143:8832
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_citradangdut_hd.png" group-title="IndiHomeTV" tvg-name="CITRA-DANGDUT-HD", CITRA DANGDUT HD
+rtp://@239.1.1.24:9517
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_citradrama.png" group-title="IndiHomeTV" tvg-name="CITRA-DRAMA", CITRA DRAMA
+rtp://@239.1.1.44:8238
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_citradrama_hd.png" group-title="IndiHomeTV" tvg-name="CITRA-DRAMA-HD", CITRA DRAMA HD
+rtp://@239.1.1.230:9516
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cna.png" group-title="IndiHomeTV" tvg-name="CNA", CNA
+rtp://@239.1.1.65:8364
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cna_hd.png" group-title="IndiHomeTV" tvg-name="CNA-HD", CNA HD
+rtp://@239.1.2.23:8112
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnbcasia.png" group-title="IndiHomeTV" tvg-name="CNBC-ASIA", CNBC ASIA
+rtp://@239.1.1.155:8904
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnbcindonesia.png" group-title="IndiHomeTV" tvg-name="CNBC-INDONESIA", CNBC INDONESIA
+rtp://@239.1.2.92:9490
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnbcindonesia_hd.png" group-title="IndiHomeTV" tvg-name="CNBC-INDONESIA-HD", CNBC INDONESIA HD
+rtp://@239.1.2.94:9448
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnnindonesia.png" group-title="IndiHomeTV" tvg-name="CNN-INDONESIA", CNN INDONESIA
+rtp://@239.1.1.241:9362
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnnindonesia_hd.png" group-title="IndiHomeTV" tvg-name="CNN-INDONESIA-HD", CNN INDONESIA HD
+rtp://@239.1.1.180:9054
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnninternational.png" group-title="IndiHomeTV" tvg-name="CNN-INTERNATIONAL", CNN INTERNATIONAL
+rtp://@239.1.1.105:8604
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnninternational_hd.png" group-title="IndiHomeTV" tvg-name="CNN-INTERNATIONAL-HD", CNN INTERNATIONAL HD
+rtp://@239.1.1.246:9438
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_crimeinvestigations.png" group-title="IndiHomeTV" tvg-name="CRIME-INVESTIGATIONS", CRIME INVESTIGATIONS
+rtp://@239.1.1.59:8328
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ctiasia.png" group-title="IndiHomeTV" tvg-name="CTI-ASIA", CTI ASIA
+rtp://@239.1.2.200:9168
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_davincilearning.png" group-title="IndiHomeTV" tvg-name="DA-VINCI-LEARNING", DA VINCI LEARNING
+rtp://@239.1.1.99:8568
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_daaitv.png" group-title="IndiHomeTV" tvg-name="DAAI-TV", DAAI TV
+rtp://@239.1.1.179:9048
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_discoverychannel.png" group-title="IndiHomeTV" tvg-name="DISCOVERY-CHANNEL", DISCOVERY CHANNEL
+rtp://@239.1.1.43:8232
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_discoverychannel_hd.png" group-title="IndiHomeTV" tvg-name="DISCOVERY-CHANNEL-HD", DISCOVERY CHANNEL HD
+rtp://@239.1.1.247:9440
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dramakorea_hd.png" group-title="IndiHomeTV" tvg-name="DRAMA-KOREA-HD", DRAMA KOREA HD
+rtp://@239.1.2.101:9521
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dreamworks.png" group-title="IndiHomeTV" tvg-name="DREAMWORKS", DREAMWORKS
+rtp://@239.1.1.139:8808
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dreamworks_hd.png" group-title="IndiHomeTV" tvg-name="DREAMWORKS-HD", DREAMWORKS HD
+rtp://@239.1.1.234:9222
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_duniaanak.png" group-title="IndiHomeTV" tvg-name="DUNIA-ANAK", DUNIA ANAK
+rtp://@239.1.1.7:8016
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dunialain.png" group-title="IndiHomeTV" tvg-name="DUNIA-LAIN", DUNIA LAIN
+rtp://@239.1.1.149:8868
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dw.png" group-title="IndiHomeTV" tvg-name="DW", DW
+rtp://@239.1.1.187:9096
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dw_hd.png" group-title="IndiHomeTV" tvg-name="DW-HD", DW HD
+rtp://@239.1.2.243:9360
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_eatgo.png" group-title="IndiHomeTV" tvg-name="EAT-GO", EAT GO
+rtp://@239.1.1.229:9350
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ebcasia.png" group-title="IndiHomeTV" tvg-name="EBC-ASIA", EBC ASIA
+rtp://@239.1.2.196:9406
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_eggnetwork.png" group-title="IndiHomeTV" tvg-name="EGG-NETWORK", EGG NETWORK
+rtp://@239.1.1.50:8274
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_eggnetwork_hd.png" group-title="IndiHomeTV" tvg-name="EGG-NETWORK-HD", EGG NETWORK HD
+rtp://@239.1.1.235:8015
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_euronews.png" group-title="IndiHomeTV" tvg-name="EURONEWS", EURONEWS
+rtp://@239.1.1.193:9132
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_fashiontv.png" group-title="IndiHomeTV" tvg-name="FASHION-TV", FASHION TV
+rtp://@239.1.1.79:8448
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_fashiontv_hd.png" group-title="IndiHomeTV" tvg-name="FASHION-TV-HD", FASHION TV HD
+rtp://@239.1.2.237:9348
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_fightsport.png" group-title="IndiHomeTV" tvg-name="FIGHT-SPORT", FIGHT SPORT
+rtp://@239.1.1.177:9036
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_fightsport_hd.png" group-title="IndiHomeTV" tvg-name="FIGHT-SPORT-HD", FIGHT SPORT HD
+rtp://@239.1.2.209:9196
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_flik.png" group-title="IndiHomeTV" tvg-name="FLIK", FLIK
+rtp://@239.1.1.71:8400
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_flik_hd.png" group-title="IndiHomeTV" tvg-name="FLIK-HD", FLIK HD
+rtp://@239.1.1.239:9276
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_flik.png" group-title="IndiHomeTV" tvg-name="FLIK", FLIK
+rtp://@239.1.1.171:8400
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_formosa.png" group-title="IndiHomeTV" tvg-name="FORMOSA", FORMOSA
+rtp://@239.1.2.198:9386
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_france24.png" group-title="IndiHomeTV" tvg-name="FRANCE-24", FRANCE 24
+rtp://@239.1.1.191:9120
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_france24_hd.png" group-title="IndiHomeTV" tvg-name="FRANCE-24-HD", FRANCE 24 HD
+rtp://@239.1.2.22:8106
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_galaxy.png" group-title="IndiHomeTV" tvg-name="GALAXY", GALAXY
+rtp://@239.1.1.184:8778
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_galaxypremium.png" group-title="IndiHomeTV" tvg-name="GALAXY-PREMIUM", GALAXY PREMIUM
+rtp://@239.1.2.240:9390
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_garudatv.png" group-title="IndiHomeTV" tvg-name="GARUDA-TV", GARUDA TV
+rtp://@239.1.1.164:8965
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_gem.png" group-title="IndiHomeTV" tvg-name="GEM", GEM
+rtp://@239.1.1.86:8154
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_gprtv.png" group-title="IndiHomeTV" tvg-name="GPR-TV", GPR TV
+rtp://@239.1.2.17:9379
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbo.png" group-title="IndiHomeTV" tvg-name="HBO", HBO
+rtp://@239.1.1.95:8544
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbo_hd.png" group-title="IndiHomeTV" tvg-name="HBO-HD", HBO HD
+rtp://@239.1.1.203:9192
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbo_hd.png" group-title="IndiHomeTV" tvg-name="HBO-HD", HBO HD
+rtp://@239.1.2.114:9428
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbofamily.png" group-title="IndiHomeTV" tvg-name="HBO-FAMILY", HBO FAMILY
+rtp://@239.1.1.89:8508
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbofamily_hd.png" group-title="IndiHomeTV" tvg-name="HBO-FAMILY-HD", HBO FAMILY HD
+rtp://@239.1.2.202:9176
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbofamily_hd.png" group-title="IndiHomeTV" tvg-name="HBO-FAMILY-HD", HBO FAMILY HD
+rtp://@239.1.2.245:9366
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbohits.png" group-title="IndiHomeTV" tvg-name="HBO-HITS", HBO HITS
+rtp://@239.1.1.91:8520
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbohits_hd.png" group-title="IndiHomeTV" tvg-name="HBO-HITS-HD", HBO HITS HD
+rtp://@239.1.1.215:9264
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbohits_hd.png" group-title="IndiHomeTV" tvg-name="HBO-HITS-HD", HBO HITS HD
+rtp://@239.1.2.204:9182
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbosignature.png" group-title="IndiHomeTV" tvg-name="HBO-SIGNATURE", HBO SIGNATURE
+rtp://@239.1.1.93:8532
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbosignature_hd.png" group-title="IndiHomeTV" tvg-name="HBO-SIGNATURE-HD", HBO SIGNATURE HD
+rtp://@239.1.2.116:9404
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hbosignature_hd.png" group-title="IndiHomeTV" tvg-name="HBO-SIGNATURE-HD", HBO SIGNATURE HD
+rtp://@239.1.2.249:9378
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hgtv.png" group-title="IndiHomeTV" tvg-name="HGTV", HGTV
+rtp://@239.1.1.210:9506
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hgtv_hd.png" group-title="IndiHomeTV" tvg-name="HGTV-HD", HGTV HD
+rtp://@239.1.2.34:8178
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_historychannel.png" group-title="IndiHomeTV" tvg-name="HISTORY-CHANNEL", HISTORY CHANNEL
+rtp://@239.1.1.57:8316
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_historychannel_hd.png" group-title="IndiHomeTV" tvg-name="HISTORY-CHANNEL-HD", HISTORY CHANNEL HD
+rtp://@239.1.1.23:8112
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hits.png" group-title="IndiHomeTV" tvg-name="HITS", HITS
+rtp://@239.1.1.171:9000
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hits_hd.png" group-title="IndiHomeTV" tvg-name="HITS-HD", HITS HD
+rtp://@239.1.1.209:9228
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hitsmovies.png" group-title="IndiHomeTV" tvg-name="HITS-MOVIES", HITS MOVIES
+rtp://@239.1.1.125:8724
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hitsmovies_hd.png" group-title="IndiHomeTV" tvg-name="HITS-MOVIES-HD", HITS MOVIES HD
+rtp://@239.1.1.190:9116
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hopechannel.png" group-title="IndiHomeTV" tvg-name="HOPE-CHANNEL", HOPE CHANNEL
+rtp://@239.1.1.78:8442
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_horee.png" group-title="IndiHomeTV" tvg-name="HOREE", HOREE
+rtp://@239.1.1.68:8382
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_horee_hd.png" group-title="IndiHomeTV" tvg-name="HOREE-HD", HOREE HD
+rtp://@239.1.1.225:8013
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_horizonsports.png" group-title="IndiHomeTV" tvg-name="HORIZON-SPORTS", HORIZON SPORTS
+rtp://@239.1.1.103:8592
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_horizonsports_hd.png" group-title="IndiHomeTV" tvg-name="HORIZON-SPORTS-HD", HORIZON SPORTS HD
+rtp://@239.1.2.201:9174
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_horizonsports.png" group-title="IndiHomeTV" tvg-name="HORIZON-SPORTS", HORIZON SPORTS
+rtp://@239.1.1.130:8592
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_idxchannel.png" group-title="IndiHomeTV" tvg-name="IDX-CHANNEL", IDX CHANNEL
+rtp://@239.1.2.248:9398
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ikonser.png" group-title="IndiHomeTV" tvg-name="IKONSER", IKONSER
+rtp://@239.1.2.222:9256
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ikonser_hd.png" group-title="IndiHomeTV" tvg-name="IKONSER-HD", IKONSER HD
+rtp://@239.1.2.221:9250
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_imc.png" group-title="IndiHomeTV" tvg-name="IMC", IMC
+rtp://@239.1.2.20:8094
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_imc_hd.png" group-title="IndiHomeTV" tvg-name="IMC-HD", IMC HD
+rtp://@239.1.1.145:8844
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/TVDigital.png" group-title="IndiHomeTV" tvg-name="INDIHOME-CINEMA-HD", INDIHOME CINEMA HD
+rtp://@239.1.1.110:8634
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indihomeshopping_hd.png" group-title="IndiHomeTV" tvg-name="INDIHOME-SHOPPING-HD", INDIHOME SHOPPING HD
+rtp://@239.1.2.96:9510
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indikids.png" group-title="IndiHomeTV" tvg-name="INDIKIDS", INDIKIDS
+rtp://@239.1.1.45:8244
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indikids_hd.png" group-title="IndiHomeTV" tvg-name="INDIKIDS-HD", INDIKIDS HD
+rtp://@239.1.1.201:9180
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indonesianatv.png" group-title="IndiHomeTV" tvg-name="INDONESIANA-TV", INDONESIANA TV
+rtp://@239.1.1.206:9199
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indonesianatv_hd.png" group-title="IndiHomeTV" tvg-name="INDONESIANA-TV-HD", INDONESIANA TV HD
+rtp://@239.1.1.176:9197
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indosiar.png" group-title="IndiHomeTV" tvg-name="INDOSIAR", INDOSIAR
+rtp://@239.1.1.17:8076
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indosiar_hd.png" group-title="IndiHomeTV" tvg-name="INDOSIAR-HD", INDOSIAR HD
+rtp://@239.1.1.214:8010
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_inews.png" group-title="IndiHomeTV" tvg-name="INEWS", INEWS
+rtp://@239.1.1.212:8967
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_insert.png" group-title="IndiHomeTV" tvg-name="INSERT", INSERT
+rtp://@239.1.1.113:8652
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_jaktv.png" group-title="IndiHomeTV" tvg-name="JAKTV", JAKTV
+rtp://@239.1.1.107:8616
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_jowo.png" group-title="IndiHomeTV" tvg-name="JOWO", JOWO
+rtp://@239.1.2.6:8000
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_jowo_hd.png" group-title="IndiHomeTV" tvg-name="JOWO-HD", JOWO HD
+rtp://@239.1.1.219:9288
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_jowo_hd.png" group-title="IndiHomeTV" tvg-name="JOWO-HD", JOWO HD
+rtp://@239.1.2.212:9208
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_jtv.png" group-title="IndiHomeTV" tvg-name="JTV", JTV
+rtp://@239.1.1.6:8010
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kplus.png" group-title="IndiHomeTV" tvg-name="K-PLUS", K PLUS
+rtp://@239.1.1.242:9426
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kplus_hd.png" group-title="IndiHomeTV" tvg-name="K-PLUS-HD", K PLUS HD
+rtp://@239.1.1.202:9186
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kbsworld.png" group-title="IndiHomeTV" tvg-name="KBS-WORLD", KBS WORLD
+rtp://@239.1.1.167:8976
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kbsworld_hd.png" group-title="IndiHomeTV" tvg-name="KBS-WORLD-HD", KBS WORLD HD
+rtp://@239.1.1.13:8052
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kix.png" group-title="IndiHomeTV" tvg-name="KIX", KIX
+rtp://@239.1.1.81:8460
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kix_hd.png" group-title="IndiHomeTV" tvg-name="KIX-HD", KIX HD
+rtp://@239.1.2.207:9190
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kompastv.png" group-title="IndiHomeTV" tvg-name="KOMPAS-TV", KOMPAS TV
+rtp://@239.1.1.197:9156
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kompastv_hd.png" group-title="IndiHomeTV" tvg-name="KOMPAS-TV-HD", KOMPAS TV HD
+rtp://@239.1.1.240:8017
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kungfutv_hd.png" group-title="IndiHomeTV" tvg-name="KUNGFU-TV-HD", KUNGFU TV HD
+rtp://@239.1.2.40:8206
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_lejelhomeshoping.png" group-title="IndiHomeTV" tvg-name="LEJEL-HOME-SHOPING-LIVE", LEJEL HOME SHOPING LIVE
+rtp://@239.1.2.3:7992
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_lejelhomeshoping.png" group-title="IndiHomeTV" tvg-name="LEJEL-HOME-SHOPING-REGULER", LEJEL HOME SHOPING REGULER
+rtp://@239.1.1.3:7992
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_lifetime.png" group-title="IndiHomeTV" tvg-name="LIFETIME", LIFETIME
+rtp://@239.1.1.181:9266
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_lifetime_hd.png" group-title="IndiHomeTV" tvg-name="LIFETIME-HD", LIFETIME HD
+rtp://@239.1.1.25:8124
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_linguachannel.png" group-title="IndiHomeTV" tvg-name="LINGUA-CHANNEL", LINGUA CHANNEL
+rtp://@239.1.2.90:9500
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mentaritv.png" group-title="IndiHomeTV" tvg-name="MENTARI-TV", MENTARI TV
+rtp://@239.1.1.127:8815
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mentaritv_hd.png" group-title="IndiHomeTV" tvg-name="MENTARI-TV-HD", MENTARI TV HD
+rtp://@239.1.1.140:9515
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_metrotv.png" group-title="IndiHomeTV" tvg-name="METRO-TV", METRO TV
+rtp://@239.1.1.19:8088
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_metrotv_hd.png" group-title="IndiHomeTV" tvg-name="METRO-TV-HD", METRO TV HD
+rtp://@239.1.2.2:7986
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mncnews.png" group-title="IndiHomeTV" tvg-name="MNC-NEWS", MNC NEWS
+rtp://@239.1.1.146:7985
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mojitv.png" group-title="IndiHomeTV" tvg-name="MOJI-TV", MOJI TV
+rtp://@239.1.1.144:8845
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mojitv_hd.png" group-title="IndiHomeTV" tvg-name="MOJI-TV-HD", MOJI TV HD
+rtp://@239.1.1.10:9513
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mqtv.png" group-title="IndiHomeTV" tvg-name="MQTV", MQTV
+rtp://@239.1.1.213:9252
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mshopsignature.png" group-title="IndiHomeTV" tvg-name="MSHOP-SIGNATURE", MSHOP SIGNATURE
+rtp://@239.1.1.36:8190
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mshopsupersale.png" group-title="IndiHomeTV" tvg-name="MSHOP-SUPER-SALE", MSHOP SUPER SALE
+rtp://@239.1.2.54:8298
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mtatv.png" group-title="IndiHomeTV" tvg-name="MTA-TV", MTA TV
+rtp://@239.1.2.234:9374
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mtvlive.png" group-title="IndiHomeTV" tvg-name="MTV-LIVE", MTV LIVE
+rtp://@239.1.1.5:8004
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mtvlive_hd.png" group-title="IndiHomeTV" tvg-name="MTV-LIVE-HD", MTV LIVE HD
+rtp://@239.1.2.16:8070
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_musikindonesia.png" group-title="IndiHomeTV" tvg-name="MUSIK-INDONESIA", MUSIK INDONESIA
+rtp://@239.1.2.108:9523
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mycinema.png" group-title="IndiHomeTV" tvg-name="MY-CINEMA", MY CINEMA
+rtp://@239.1.1.161:8940
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mycinema_hd.png" group-title="IndiHomeTV" tvg-name="MY-CINEMA-HD", MY CINEMA HD
+rtp://@239.1.2.225:9318
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mycinemaasia.png" group-title="IndiHomeTV" tvg-name="MY-CINEMA-ASIA", MY CINEMA ASIA
+rtp://@239.1.1.151:8880
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_myfamilychannel.png" group-title="IndiHomeTV" tvg-name="MY-FAMILY-CHANNEL", MY FAMILY CHANNEL
+rtp://@239.1.1.175:9024
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_myfamilychannel_hd.png" group-title="IndiHomeTV" tvg-name="MY-FAMILY-CHANNEL-HD", MY FAMILY CHANNEL HD
+rtp://@239.1.1.237:9396
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mykidz.png" group-title="IndiHomeTV" tvg-name="MY-KIDZ", MY KIDZ
+rtp://@239.1.1.47:8256
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mykidz_hd.png" group-title="IndiHomeTV" tvg-name="MY-KIDZ-HD", MY KIDZ HD
+rtp://@239.1.1.52:8416
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_natgeochannel.png" group-title="IndiHomeTV" tvg-name="NAT-GEO-CHANNEL", NAT GEO CHANNEL
+rtp://@239.1.1.169:8988
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_natgeochannel_hd.png" group-title="IndiHomeTV" tvg-name="NAT-GEO-CHANNEL-HD", NAT GEO CHANNEL HD
+rtp://@239.1.1.243:9432
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_natgeowild.png" group-title="IndiHomeTV" tvg-name="NAT-GEO-WILD", NAT GEO WILD
+rtp://@239.1.1.35:8184
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_natgeowild_hd.png" group-title="IndiHomeTV" tvg-name="NAT-GEO-WILD-HD", NAT GEO WILD HD
+rtp://@239.1.1.207:9216
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nbatv_hd.png" group-title="IndiHomeTV" tvg-name="NBA-TV-HD", NBA TV HD
+rtp://@239.1.1.49:8268
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nbatv_hd.png" group-title="IndiHomeTV" tvg-name="NBA-TV-HD", NBA TV HD
+rtp://@239.1.2.210:9444
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_net.png" group-title="IndiHomeTV" tvg-name="NET", NET
+rtp://@239.1.1.119:8688
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_net_hd.png" group-title="IndiHomeTV" tvg-name="NET-HD", NET HD
+rtp://@239.1.1.158:8922
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldjapan.png" group-title="IndiHomeTV" tvg-name="NHK-WORLD-JAPAN", NHK WORLD JAPAN
+rtp://@239.1.1.236:9390
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldjapan_hd.png" group-title="IndiHomeTV" tvg-name="NHK-WORLD-JAPAN-HD", NHK WORLD JAPAN HD
+rtp://@239.1.2.239:9354
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldpremium.png" group-title="IndiHomeTV" tvg-name="NHK-WORLD-PREMIUM", NHK WORLD PREMIUM
+rtp://@239.1.1.165:8964
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldpremium_hd.png" group-title="IndiHomeTV" tvg-name="NHK-WORLD-PREMIUM-HD", NHK WORLD PREMIUM HD
+rtp://@239.1.1.174:9018
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nickjr.png" group-title="IndiHomeTV" tvg-name="NICK-JR", NICK JR
+rtp://@239.1.1.159:8928
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nickelodeon.png" group-title="IndiHomeTV" tvg-name="NICKELODEON", NICKELODEON
+rtp://@239.1.1.41:8220
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nusantaratv.png" group-title="IndiHomeTV" tvg-name="NUSANTARA-TV", NUSANTARA TV
+rtp://@239.1.2.102:9522
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_one.png" group-title="IndiHomeTV" tvg-name="ONE", ONE
+rtp://@239.1.1.172:9006
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_one_hd.png" group-title="IndiHomeTV" tvg-name="ONE-HD", ONE HD
+rtp://@239.1.2.21:8100
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_one_hd.png" group-title="IndiHomeTV" tvg-name="ONE-HD", ONE HD
+rtp://@239.1.2.26:8130
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_pandatv_hd.png" group-title="IndiHomeTV" tvg-name="PANDA-TV-HD", PANDA TV HD
+rtp://@239.1.1.208:9502
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_paramountchannel.png" group-title="IndiHomeTV" tvg-name="PARAMOUNT-CHANNEL", PARAMOUNT CHANNEL
+rtp://@239.1.1.11:8040
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_paramountchannel_hd.png" group-title="IndiHomeTV" tvg-name="PARAMOUNT-CHANNEL-HD", PARAMOUNT CHANNEL HD
+rtp://@239.1.1.211:9240
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_prambors.png" group-title="IndiHomeTV" tvg-name="PRAMBORS", PRAMBORS
+rtp://@239.1.1.227:9336
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_prambors_hd.png" group-title="IndiHomeTV" tvg-name="PRAMBORS-HD", PRAMBORS HD
+rtp://@239.1.1.254:8019
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rockentertaiment.png" group-title="IndiHomeTV" tvg-name="ROCK-ENTERTAIMENT", ROCK ENTERTAIMENT
+rtp://@239.1.1.141:8820
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rockentertaiment_hd.png" group-title="IndiHomeTV" tvg-name="ROCK-ENTERTAIMENT-HD", ROCK ENTERTAIMENT HD
+rtp://@239.1.2.76:9310
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rockextreme.png" group-title="IndiHomeTV" tvg-name="ROCK-EXTREME", ROCK EXTREME
+rtp://@239.1.1.134:8778
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rockextreme_hd.png" group-title="IndiHomeTV" tvg-name="ROCK-EXTREME-HD", ROCK EXTREME HD
+rtp://@239.1.1.112:8646
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rodjatv.png" group-title="IndiHomeTV" tvg-name="RODJA-TV", RODJA TV
+rtp://@239.1.1.224:9320
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rrinet.png" group-title="IndiHomeTV" tvg-name="RRI-NET", RRI NET
+rtp://@239.1.2.74:8420
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rrinet_hd.png" group-title="IndiHomeTV" tvg-name="RRI-NET-HD", RRI NET HD
+rtp://@239.1.1.130:9514
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rtv.png" group-title="IndiHomeTV" tvg-name="RTV", RTV
+rtp://@239.1.1.69:8388
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rtv_hd.png" group-title="IndiHomeTV" tvg-name="RTV-HD", RTV HD
+rtp://@239.1.1.253:8018
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ruangtrampil.png" group-title="IndiHomeTV" tvg-name="RUANG-TRAMPIL", RUANG TRAMPIL
+rtp://@239.1.1.126:8730
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ruangtrampil_hd.png" group-title="IndiHomeTV" tvg-name="RUANG-TRAMPIL-HD", RUANG TRAMPIL HD
+rtp://@239.1.1.111:8640
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_sctv.png" group-title="IndiHomeTV" tvg-name="SCTV", SCTV
+rtp://@239.1.1.21:8100
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_sctv_hd.png" group-title="IndiHomeTV" tvg-name="SCTV-HD", SCTV HD
+rtp://@239.1.2.58:8324
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seatoday_hd.png" group-title="IndiHomeTV" tvg-name="SEA-TODAY-HD", SEA TODAY HD
+rtp://@239.1.2.68:8384
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seatoday_hd.png" group-title="IndiHomeTV" tvg-name="SEA-TODAY-HD", SEA TODAY HD
+rtp://@239.1.2.70:8396
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seru.png" group-title="IndiHomeTV" tvg-name="SERU", SERU
+rtp://@239.1.2.109:9524
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_shenzentv_hd.png" group-title="IndiHomeTV" tvg-name="SHENZEN-TV-HD", SHENZEN TV HD
+rtp://@239.1.1.156:8910
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_starchinesechannel.png" group-title="IndiHomeTV" tvg-name="STAR-CHINESE-CHANNEL", STAR CHINESE CHANNEL
+rtp://@239.1.1.153:8892
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_starchinesemovies.png" group-title="IndiHomeTV" tvg-name="STAR-CHINESE-MOVIES", STAR CHINESE MOVIES
+rtp://@239.1.1.131:8760
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_starchinesemovies_hd.png" group-title="IndiHomeTV" tvg-name="STAR-CHINESE-MOVIES-HD", STAR CHINESE MOVIES HD
+rtp://@239.1.2.231:9336
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tawaftv.png" group-title="IndiHomeTV" tvg-name="TAWAF-TV", TAWAF TV
+rtp://@239.1.2.236:9366
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_techstorm.png" group-title="IndiHomeTV" tvg-name="TECH-STORM", TECH STORM
+rtp://@239.1.1.67:8376
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_techstorm_hd.png" group-title="IndiHomeTV" tvg-name="TECH-STORM-HD", TECH STORM HD
+rtp://@239.1.2.229:9330
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_telkomgrouptv_hd.png" group-title="IndiHomeTV" tvg-name="TELKOM-GROUP-TV-HD", TELKOM GROUP TV HD
+rtp://@239.1.2.14:8058
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_thrill.png" group-title="IndiHomeTV" tvg-name="THRILL", THRILL
+rtp://@239.1.1.83:8472
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tlc.png" group-title="IndiHomeTV" tvg-name="TLC", TLC
+rtp://@239.1.1.173:9012
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tlc_hd.png" group-title="IndiHomeTV" tvg-name="TLC-HD", TLC HD
+rtp://@239.1.2.235:9342
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_trans7.png" group-title="IndiHomeTV" tvg-name="TRANS7", TRANS7
+rtp://@239.1.1.29:8148
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_trans7_hd.png" group-title="IndiHomeTV" tvg-name="TRANS7-HD", TRANS7 HD
+rtp://@239.1.1.222:9306
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_transtv.png" group-title="IndiHomeTV" tvg-name="TRANSTV", TRANSTV
+rtp://@239.1.1.27:8136
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_transtv_hd.png" group-title="IndiHomeTV" tvg-name="TRANSTV-HD", TRANSTV HD
+rtp://@239.1.1.194:9138
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_trtworld.png" group-title="IndiHomeTV" tvg-name="TRT-WORLD", TRT WORLD
+rtp://@239.1.2.84:8296
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_trtworld_hd.png" group-title="IndiHomeTV" tvg-name="TRT-WORLD-HD", TRT WORLD HD
+rtp://@239.1.1.250:9518
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvedukasi.png" group-title="IndiHomeTV" tvg-name="TV-EDUKASI", TV EDUKASI
+rtp://@239.1.1.39:8208
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvmui.png" group-title="IndiHomeTV" tvg-name="TV-MUI", TV MUI
+rtp://@239.1.2.52:8286
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tv5monde.png" group-title="IndiHomeTV" tvg-name="TV5MONDE", TV5MONDE
+rtp://@239.1.1.55:8300
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tv9.png" group-title="IndiHomeTV" tvg-name="TV9", TV9
+rtp://@239.1.1.150:8874
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvbsnews.png" group-title="IndiHomeTV" tvg-name="TVBS-NEWS", TVBS NEWS
+rtp://@239.1.2.118:9410
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvmu.png" group-title="IndiHomeTV" tvg-name="TVMU", TVMU
+rtp://@239.1.1.170:8994
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvn.png" group-title="IndiHomeTV" tvg-name="TVN", TVN
+rtp://@239.1.1.135:8784
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvn_hd.png" group-title="IndiHomeTV" tvg-name="TVN-HD", TVN HD
+rtp://@239.1.2.211:9202
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvnmovies.png" group-title="IndiHomeTV" tvg-name="TVN-MOVIES", TVN MOVIES
+rtp://@239.1.1.61:8340
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvnmovies_hd.png" group-title="IndiHomeTV" tvg-name="TVN-MOVIES-HD", TVN MOVIES HD
+rtp://@239.1.2.72:8408
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvone.png" group-title="IndiHomeTV" tvg-name="TVONE", TVONE
+rtp://@239.1.1.31:8160
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvri.png" group-title="IndiHomeTV" tvg-name="TVRI", TVRI
+rtp://@239.1.1.37:8196
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvri_hd.png" group-title="IndiHomeTV" tvg-name="TVRI-HD", TVRI HD
+rtp://@239.1.1.238:8016
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_uchannel.png" group-title="IndiHomeTV" tvg-name="U-CHANNEL", U CHANNEL
+rtp://@239.1.1.220:9522
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useemozaik.png" group-title="IndiHomeTV" tvg-name="USEE-MOZAIK", USEE MOZAIK
+rtp://@239.1.2.223:9268
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useephoto.png" group-title="IndiHomeTV" tvg-name="USEE-PHOTO", USEE PHOTO
+rtp://@239.1.1.251:9498
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useephoto_hd.png" group-title="IndiHomeTV" tvg-name="USEE-PHOTO-HD", USEE PHOTO HD
+rtp://@239.1.2.24:8118
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useeprime.png" group-title="IndiHomeTV" tvg-name="USEE-PRIME", USEE PRIME
+rtp://@239.1.1.216:9270
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useeprime_hd.png" group-title="IndiHomeTV" tvg-name="USEE-PRIME-HD", USEE PRIME HD
+rtp://@239.1.1.252:9486
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useesports.png" group-title="IndiHomeTV" tvg-name="USEE-SPORTS", USEE SPORTS
+rtp://@239.1.1.101:8580
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useesports_hd.png" group-title="IndiHomeTV" tvg-name="USEE-SPORTS-HD", USEE SPORTS HD
+rtp://@239.1.2.203:9180
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useesports2.png" group-title="IndiHomeTV" tvg-name="USEE-SPORTS-2", USEE SPORTS 2
+rtp://@239.1.1.53:8292
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useesports2_hd.png" group-title="IndiHomeTV" tvg-name="USEE-SPORTS-2-HD", USEE SPORTS 2 HD
+rtp://@239.1.2.205:9186
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useetoday_hd.png" group-title="IndiHomeTV" tvg-name="USEE-TODAY-HD", USEE TODAY HD
+rtp://@239.1.2.50:8274
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_warnertv.png" group-title="IndiHomeTV" tvg-name="WARNER-TV", WARNER TV
+rtp://@239.1.2.9:8028
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_warnertv_hd.png" group-title="IndiHomeTV" tvg-name="WARNER-TV-HD", WARNER TV HD
+rtp://@239.1.2.244:9078
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_zeebioskop.png" group-title="IndiHomeTV" tvg-name="ZEE-BIOSKOP", ZEE BIOSKOP
+rtp://@239.1.1.129:8748
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_zhenjiang_hd.png" group-title="IndiHomeTV" tvg-name="ZHENJIANG-HD", ZHENJIANG HD
+rtp://@239.1.1.154:8898
